@@ -64,7 +64,7 @@
 ## 👥 6. Cộng đồng
 
 - **Facebook - Vietnamese Bioinformatics Network** - [Tham gia](https://www.facebook.com/groups/196401747618115)
-- **Discord - Genomics & Bioinfo** - [Tham gia](https://discord.gg/UBg3svje)
+- **Discord - Genomics & Bioinfo** - [Tham gia](https://discord.gg/gP6SRrJcGG)
 ---
 
 ## 🤝 Đóng góp
