@@ -52,10 +52,12 @@
 - **scRNAseq cơ bản** - [Truy cập](https://rnaseqcoban.github.io/)
 - **Duy Pham blog** - [Truy cập](https://substack.com/@duypham2108)
 - **Dr Kangabu** - [Truy cập](https://substack.com/@drkangabu)
+- **Giang Labs - Bioinformatics engineer** - [Truy cập](https://gianglabs.github.io/glabs-docs-blogs/)
 
 - **Satija lab** - [Truy cập](https://www.youtube.com/@satijalab3189/featured)
 - **Erik Lindahl** - [Truy cập](https://www.youtube.com/@eriklindahl/videos)
 - **Tommy** - [Truy cập](https://github.com/crazyhottommy)
+
 
 ## 📋 5. Tài liệu khác
 
